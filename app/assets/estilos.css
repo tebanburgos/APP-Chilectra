@@ -1,0 +1,103 @@
+/*
+input[type="password"] {
+	padding: 6px 12px;
+}
+
+.panel-login .panel-heading {
+	background-color: transparent !important;
+}
+
+.panel-login {
+	border: 0;
+}
+
+.panel-login .alert {
+	padding: 5px;
+	margin-bottom: 10px;	
+}
+
+.menu-principal {
+	/*background-color: transparent;
+}*/
+
+
+.fn-gantt .row {
+    float: left !important;
+    height: 24px !important;
+    line-height: 24px !important;
+    margin-left: -1px !important;
+}
+
+.gantt {
+	border: 1px solid #e5e5e5;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.fn-gantt .leftPanel {
+	width: 400px;
+}
+
+.gantt .row:after {
+	clear: both !important;
+}
+
+.menu-principal {
+	background-color: #003367;
+	border-color: #004183;
+	color: white;
+}
+
+.menu-principal .navbar-brand {
+	color: white;
+}
+
+.menu-principal a:hover.navbar-brand {
+	color: white;
+}
+
+.menu-principal .navbar-nav > li > a {
+	color: white;
+	font-size: 16px;
+}
+
+.menu-principal .navbar-nav > li > a:hover, .menu-principal .navbar-nav > li > a:active, .menu-principal .navbar-nav > li > a:visited {
+	color: white;
+}
+
+.panel-title {
+	font-size: 18px;
+	color: rgb(89, 89, 89);	
+}
+
+.panel-default > .panel-heading {
+	background-color: #DDDDDD;
+}
+
+body {
+	background-color: #F2F2F2;	
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	background-size: cover;
+	background-image: url('./img/bg-login.jpg');	
+}
+
+html#pagina-login body > .container {
+	height: 300px;
+	position: relative !important;
+	top: 50%;
+	margin-top: -150px;
+}
+
+.panel-body:first-child {
+	box-shadow: 2px 2px 16px rgba(0,0,0,0.3);
+}
+
+.colorfondo{background-color: #f5f5f5 !important;}
