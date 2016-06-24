@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'chilectr_app';
-$db['default']['password'] = 'Ch12015iMa!';
+$db['default']['password'] = 'CONFIDENCIAL';
 $db['default']['database'] = 'chilectr_app';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
